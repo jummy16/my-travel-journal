@@ -29,7 +29,7 @@ body{
     left: calc(50% - 24px/2 - 100px);
     top: calc(50% - 24px/2 - 320px);
 }
-.fuji{
+.pic{
     position: absolute;
     width: 125px;
     height: 168px;
@@ -38,7 +38,7 @@ body{
     background: url("fuji.jpg");
     border-radius: 5px
 }
-.fuji--img1{
+.img1{
     position: absolute;
     width: 7px;
     height: 9.55px;
@@ -46,7 +46,7 @@ body{
     top: calc(50% - 9.55px/2 - 227.23px);
     background: #DADADA;
 }
-.fuji--location{
+.location{
     position: absolute;
     left: 195px;
     top: 109px;
@@ -54,7 +54,7 @@ body{
     letter-spacing: 0.17em;
     color: #2B283A;
 }
-.fuji--text{
+.text{
     position: absolute;
     left: 235px;
     top: 109px;
@@ -62,7 +62,7 @@ body{
     text-decoration-line: underline;
     color: #918E9B;
 }
-.fuji--title{
+.title{
     position: absolute;
     left: 184px;
     top: 110px;
@@ -70,7 +70,7 @@ body{
     line-height: 30px;
     color: #2B283A;
 }
-.fuji--date{
+.date{
     position: absolute;
     left: 184px;
     top: 170px;
@@ -78,7 +78,7 @@ body{
     font-size: 10.24px;
     color: #2B283A;
 }
-.fuji--describe{
+.describe{
     position: absolute;
     width: 326px;
     left: 184px;

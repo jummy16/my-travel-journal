@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom/client';
- import Journal from './App';
+import Journal from './App';
 
 
 
